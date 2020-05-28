@@ -1,6 +1,6 @@
 # Hello-world
 A new repository
 
-hello,
+Hello,
 
 I love nature and books.
